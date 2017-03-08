@@ -10,5 +10,7 @@ private:
     string alias_;
 public:
     WhoAreYou(); //pyta o dane osoby
+    ChangeVowel(); //zmienia samogloski na 'z'
     Write(); //wypisuje osobe
+
 };

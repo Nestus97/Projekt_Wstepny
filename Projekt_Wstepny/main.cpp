@@ -8,6 +8,7 @@ int main()
 {
     Person guy;
     guy.WhoAreYou();
+    guy.ChangeVowel();
     guy.Write();
     return 0;
 }
