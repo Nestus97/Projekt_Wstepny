@@ -10,5 +10,6 @@ private:
     string alias_;
 public:
     WhoAreYou(); //pyta o dane osoby
+    Return(); //odwraca litery w slowach
     Write(); //wypisuje osobe
 };
